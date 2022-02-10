@@ -1,0 +1,5 @@
+UserID: Admin | pwd: wla!@#$rewQ1
+UserID: clement | pwd: wla!@#$rewQ1| Email: clement@gmail.com| DISM
+UserID: johnT | pwd: wla$rewQ1| Email: johnT@gmail.com| DAAA
+UserID: johnL | pwd: wla!wW2| Email: johnL@gmail.com| DIT
+UserID: Leonard | pwd: wla!1loL| Email: leonard@gmail.com| DISM

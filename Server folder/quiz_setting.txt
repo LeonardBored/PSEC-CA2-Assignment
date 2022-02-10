@@ -1,0 +1,8 @@
+Time for quiz: |3
+Number of Question for each Topic: |string: 4,list: 3,socket: 5
+Maximum number of attempts for each quiz: |3
+Randomize Options for quiz: |No
+Quiz tested for each Module: |PSEC: Socket & List Quiz 1,NETF: Socket Quiz,ACG: Quiz 1
+PSEC|Socket & List Quiz 1:socket:list,String Quiz:string
+NETF|Quiz 1:string:list,Socket Quiz:socket
+ACG|Quiz 1:list:string:socket,Quiz 2:string
